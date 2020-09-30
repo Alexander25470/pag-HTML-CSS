@@ -1,0 +1,46 @@
+@keyframes desdeAbajo {
+    from {
+      margin-top: 100%;
+      /*width: 300%*/
+    }
+  
+    to {
+      margin-top: 0%;
+      /*width: 100%;*/
+    }
+  }
+
+@keyframes desdeDerecha {
+    from {
+      margin-left: 100%;
+      /*width: 300%*/
+    }
+  
+    to {
+      margin-left: 0%;
+      /*width: 100%;*/
+    }
+  }
+
+@keyframes desdeIzquierda {
+    from {
+      margin-right: 100%;
+      /*width: 300%*/
+    }
+  
+    to {
+      margin-right: 0%;
+      /*width: 100%;*/
+    }
+  }
+@keyframes desdeIzquierdaCont {
+    from {
+      margin-left: 0%;
+      /*width: 300%*/
+    }
+  
+    to {
+      margin-left: 25%;
+      /*width: 100%;*/
+    }
+  }
